@@ -38,7 +38,7 @@ NaTruKi_App/
 
 ## Contributors
 
-- **Khang, Phuc Nguyen - Leader:** Manage & Test Functions in Project
-- **Nhat, Hoang Nguyen:** Build the Parser + Scene Graph
-- **Nghia, Trong Hoang:** Build UI
-- **Cao, Chi Phan:** Class Defining & Design
+- **[Khang, Phuc Nguyen](https://github.com/khang1108) - Leader:** Manage & Test Functions in Project
+- **[Nhat, Hoang Nguyen](https://github.com/nh996):** Build the Parser + Scene Graph
+- **[Nghia, Trong Hoang](https://github.com/pumpowhat):** Build UI
+- **[Cao, Chi Phan](https://github.com/cpgod36):** Class Defining & Design
